@@ -4,7 +4,7 @@ Funciona sobre Business Central 2020 w1(v16).
 
 Incorpora secció coloras (component vuejs, a la fitxa de clients).
 
-1)AddinVueTest.al
+1) ./AddinVueTest.al
 És el fitxer que conté la instància del Control Add-in i la pàgina extensionada en AL.
 
 2)	./js/addin.js
